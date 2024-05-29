@@ -30,7 +30,7 @@
             android:hint="Write your rgb color"
             android:gravity="center"
             android:layout_gravity="center_vertical"
-            android:id="@+id/etName"
+            android:id="@+id/etRgbColor"
             />
 
         <TextView
